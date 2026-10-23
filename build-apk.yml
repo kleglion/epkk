@@ -1,8 +1,8 @@
 name: Android APK Derle (Mağaza Sayım Otomasyonu)
 
 on:
-  push:
-  workflow_dispatch:
+push:
+workflow_dispatch:
 
 jobs:
   build:
